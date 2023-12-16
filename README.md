@@ -8,6 +8,6 @@ Learning on Graphs Conference 2023
 
 Preprint: https://arxiv.org/abs/2306.03480
 
-Code can be found here : https://anonymous.4open.science/r/GShot-7112/README.md
+Code can be found here : https://github.com/GshotFew/GShot/  
 
 Updated version of code will be uploaded soon.
